@@ -1,0 +1,1 @@
+# YapisalProgramlama çalışma uygulamaları
